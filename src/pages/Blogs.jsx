@@ -6,7 +6,7 @@ const Blog = () => {
         <div className="blog-container bg-gradient-to-r cursor-pointer from-blue-50 via-white to-blue-50 min-h-screen p-6">
             <div className="max-w-4xl mx-auto">
                 {/* Blog Title */}
-                <h1 className=" sm:text-2xl lg:text-5xl  md:text-4xl font-bold text-center text-gray-800 mb-12 tracking-tight leading-tight transition-all duration-500 hover:scale-105 hover:text-blue-600">
+                <h1 className=" sm:text-3xl lg:text-5xl  md:4xl font-bold text-center text-gray-800 mb-12 tracking-tight leading-tight transition-all duration-500 hover:scale-105 hover:text-blue-600">
                     How to Develop a Career in the Legal Corporate Field
                 </h1>
 
